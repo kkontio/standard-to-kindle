@@ -15,7 +15,7 @@ On macOS all but ripgrep come preinstalled. To install via [Homebrew](https://br
 
 ## Usage
 
-Invoke the script: `./standard-to-kindle.bash`
+Plug Kindle into your computer and invoke the script: `./standard-to-kindle.bash`
 
 ## Notes
 
